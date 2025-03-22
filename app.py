@@ -1,5 +1,3 @@
-import streamlit as st
-
 nombre=input("Hola, ¿Cuál es tu nombre?")
 print(f"¡Bienvenid@ {nombre}!")
 print("Por favor, para las siguientes preguntas, escribe sólo una alternativa (ej: A, B, C, D)")
